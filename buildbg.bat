@@ -1,0 +1,1 @@
+GCC -o Fluorine Fluorine.c resources.rc -lws2_32 -lshell32 -static -mwindows
