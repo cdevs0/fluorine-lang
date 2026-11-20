@@ -1,2 +1,2 @@
-# fluorine-lang
+# Fluorine
 The Fluorine Programming Language
